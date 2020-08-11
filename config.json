@@ -1,0 +1,14 @@
+{
+  "wikipedia": "https://en.wikipedia.org/wiki/South_Antrim_(UK_Parliament_constituency)",
+  "wikidata": [{
+    "id": "Q751699",
+    "start": "1950",
+    "end": "9999"
+  }, {
+    "id": "Q43021449",
+    "start": "1885",
+    "end": "1922"
+  }],
+  "combofile": "combo.csv",
+  "new_person_description": "Northern Irish election candidate"
+}
